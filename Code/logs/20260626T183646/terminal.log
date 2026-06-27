@@ -1,0 +1,13 @@
+2026-06-26 18:37:06.432 [warning] RemoteTerminalBackend#getTerminalLayoutInfo Error ["Connecting with SSH timed out"]
+2026-06-26 18:37:16.179 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 98.60ms
+ptyhostservice<->ptyhost: 2.40ms []
+2026-06-26 18:37:16.482 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 475.70ms
+ptyhostservice<->ptyhost: 6.86ms []
+2026-06-26 18:37:16.482 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 475.80ms
+ptyhostservice<->ptyhost: 6.65ms []
+2026-06-26 18:37:16.482 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 475.60ms
+ptyhostservice<->ptyhost: 6.58ms []

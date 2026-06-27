@@ -1,0 +1,81 @@
+2026-06-25 16:52:02.112 [info] Started initializing default profile extensions in extensions installation folder. file:///home/mamz/.vscode/extensions
+2026-06-25 16:52:02.275 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/mamz/.vscode/extensions Unable to create file 'vscode-userdata:/home/mamz/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2026-06-25 16:52:02.275 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/mamz/.vscode/extensions
+2026-06-25 16:53:36.795 [info] Getting Manifest... ms-python.python
+2026-06-25 16:53:36.956 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"}}
+2026-06-25 16:53:37.068 [info] Getting Manifest... ms-python.vscode-python-envs
+2026-06-25 16:53:37.086 [info] Getting Manifest... ms-python.vscode-pylance
+2026-06-25 16:53:37.104 [info] Getting Manifest... ms-python.debugpy
+2026-06-25 16:53:37.127 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-06-25 16:53:37.127 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-06-25 16:53:37.127 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-06-25 16:53:42.602 [info] Getting Manifest... ritwickdey.liveserver
+2026-06-25 16:53:43.587 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"}}
+2026-06-25 16:53:45.306 [info] Getting Manifest... esbenp.prettier-vscode
+2026-06-25 16:53:45.737 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"}}
+2026-06-25 16:53:52.009 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Internal Code: 0. Executed: true. Duration: 3333ms.
+2026-06-25 16:53:52.206 [info] Extracted extension to file:///home/mamz/.vscode/extensions/esbenp.prettier-vscode-12.4.0: esbenp.prettier-vscode
+2026-06-25 16:53:52.213 [info] Renamed to /home/mamz/.vscode/extensions/esbenp.prettier-vscode-12.4.0
+2026-06-25 16:53:52.227 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:53:53.169 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 983ms.
+2026-06-25 16:53:54.814 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 1452ms.
+2026-06-25 16:53:54.969 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 1080ms.
+2026-06-25 16:53:55.274 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 1000ms.
+2026-06-25 16:53:55.683 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 999ms.
+2026-06-25 16:53:56.132 [info] Extracted extension to file:///home/mamz/.vscode/extensions/ms-python.debugpy-2026.6.0-linux-x64: ms-python.debugpy
+2026-06-25 16:53:56.159 [info] Renamed to /home/mamz/.vscode/extensions/ms-python.debugpy-2026.6.0-linux-x64
+2026-06-25 16:53:56.278 [info] Extracted extension to file:///home/mamz/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64: ms-python.vscode-python-envs
+2026-06-25 16:53:56.291 [info] Renamed to /home/mamz/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64
+2026-06-25 16:53:57.646 [info] Extracted extension to file:///home/mamz/.vscode/extensions/ritwickdey.liveserver-5.7.10: ritwickdey.liveserver
+2026-06-25 16:53:57.829 [info] Renamed to /home/mamz/.vscode/extensions/ritwickdey.liveserver-5.7.10
+2026-06-25 16:53:57.842 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:53:57.984 [info] Extracted extension to file:///home/mamz/.vscode/extensions/ms-python.python-2026.4.0-linux-x64: ms-python.python
+2026-06-25 16:53:58.075 [info] Renamed to /home/mamz/.vscode/extensions/ms-python.python-2026.4.0-linux-x64
+2026-06-25 16:53:59.361 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2026-06-25 16:53:59.653 [info] Installing extension: ms-vscode-remote.remote-ssh {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"}}
+2026-06-25 16:53:59.748 [info] Getting Manifest... ms-vscode.remote-explorer
+2026-06-25 16:53:59.875 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2026-06-25 16:53:59.905 [info] Installing extension: ms-vscode.remote-explorer {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-06-25 16:53:59.905 [info] Installing extension: ms-vscode-remote.remote-ssh-edit {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-06-25 16:54:01.487 [info] Extension signature verification result for ms-vscode-remote.remote-ssh-edit: Success. Internal Code: 0. Executed: true. Duration: 1325ms.
+2026-06-25 16:54:01.492 [info] Extension signature verification result for ms-vscode-remote.remote-ssh: Success. Internal Code: 0. Executed: true. Duration: 1051ms.
+2026-06-25 16:54:01.546 [info] Extracted extension to file:///home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0: ms-vscode-remote.remote-ssh-edit
+2026-06-25 16:54:01.555 [info] Renamed to /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0
+2026-06-25 16:54:01.605 [info] Extracted extension to file:///home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0: ms-vscode-remote.remote-ssh
+2026-06-25 16:54:01.615 [info] Renamed to /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0
+2026-06-25 16:54:01.666 [info] Extension signature verification result for ms-vscode.remote-explorer: Success. Internal Code: 0. Executed: true. Duration: 1514ms.
+2026-06-25 16:54:01.699 [info] Extracted extension to file:///home/mamz/.vscode/extensions/ms-vscode.remote-explorer-0.5.0: ms-vscode.remote-explorer
+2026-06-25 16:54:01.706 [info] Renamed to /home/mamz/.vscode/extensions/ms-vscode.remote-explorer-0.5.0
+2026-06-25 16:54:01.728 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:54:01.729 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:54:01.729 [info] Extension installed successfully: ms-vscode.remote-explorer vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:54:02.770 [info] Extracted extension to file:///home/mamz/.vscode/extensions/ms-python.vscode-pylance-2026.2.1: ms-python.vscode-pylance
+2026-06-25 16:54:03.108 [info] Renamed to /home/mamz/.vscode/extensions/ms-python.vscode-pylance-2026.2.1
+2026-06-25 16:54:03.135 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:54:03.136 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:54:03.136 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:54:03.136 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:54:22.749 [info] Getting Manifest... golang.go
+2026-06-25 16:54:23.086 [info] Installing extension: golang.go {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"}}
+2026-06-25 16:54:24.329 [info] Extension signature verification result for golang.go: Success. Internal Code: 0. Executed: true. Duration: 728ms.
+2026-06-25 16:54:24.365 [info] Extracted extension to file:///home/mamz/.vscode/extensions/golang.go-0.54.0: golang.go
+2026-06-25 16:54:24.374 [info] Renamed to /home/mamz/.vscode/extensions/golang.go-0.54.0
+2026-06-25 16:54:24.394 [info] Extension installed successfully: golang.go vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:54:39.513 [info] Getting Manifest... mhutchie.git-graph
+2026-06-25 16:54:39.729 [info] Installing extension: mhutchie.git-graph {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"}}
+2026-06-25 16:54:41.092 [info] Extension signature verification result for mhutchie.git-graph: Success. Internal Code: 0. Executed: true. Duration: 704ms.
+2026-06-25 16:54:41.144 [info] Extracted extension to file:///home/mamz/.vscode/extensions/mhutchie.git-graph-1.30.0: mhutchie.git-graph
+2026-06-25 16:54:41.153 [info] Renamed to /home/mamz/.vscode/extensions/mhutchie.git-graph-1.30.0
+2026-06-25 16:54:41.172 [info] Extension installed successfully: mhutchie.git-graph vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:54:44.572 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2026-06-25 16:54:44.729 [info] Installing extension: bradlc.vscode-tailwindcss {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"}}
+2026-06-25 16:54:46.115 [info] Extension signature verification result for bradlc.vscode-tailwindcss: Success. Internal Code: 0. Executed: true. Duration: 717ms.
+2026-06-25 16:54:46.176 [info] Extracted extension to file:///home/mamz/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.29: bradlc.vscode-tailwindcss
+2026-06-25 16:54:46.183 [info] Renamed to /home/mamz/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.29
+2026-06-25 16:54:46.202 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/mamz/.vscode/extensions/extensions.json
+2026-06-25 16:56:07.927 [info] Getting Manifest... taraldinn.nishuuu-themes
+2026-06-25 16:56:08.143 [info] Installing extension: taraldinn.nishuuu-themes {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mamz/.vscode/extensions/extensions.json","path":"/home/mamz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.126.0","date":"2026-06-23T01:46:13Z"}}
+2026-06-25 16:56:10.719 [info] Extension signature verification result for taraldinn.nishuuu-themes: Success. Internal Code: 0. Executed: true. Duration: 754ms.
+2026-06-25 16:56:12.428 [info] Extracted extension to file:///home/mamz/.vscode/extensions/taraldinn.nishuuu-themes-4.2.0: taraldinn.nishuuu-themes
+2026-06-25 16:56:12.483 [info] Renamed to /home/mamz/.vscode/extensions/taraldinn.nishuuu-themes-4.2.0
+2026-06-25 16:56:12.503 [info] Extension installed successfully: taraldinn.nishuuu-themes vscode-userdata:/home/mamz/.vscode/extensions/extensions.json

@@ -1,0 +1,6 @@
+{
+    "chat.titleBar.openInAgentsWindow.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "workbench.browser.showInTitleBar": false,
+    "window.commandCenter": false
+}

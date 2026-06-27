@@ -1,0 +1,9 @@
+2026-06-25 20:23:42.168 [info] StorageMainService: creating application shared storage
+2026-06-25 20:23:42.315 [info] [shared storage] Creating shared storage database at '/home/mamz/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-06-25 20:23:42.316 [info] [shared storage] Initializing fallback application storage (path: /home/mamz/.config/Code/User/globalStorage/state.vscdb)
+2026-06-25 20:23:42.337 [info] [shared storage] Fallback application storage initialized with 119 items
+2026-06-25 20:23:42.340 [info] update#setState idle
+2026-06-25 20:24:00.659 [info] Extension host with pid 1138 exited with code: 0, signal: unknown.
+2026-06-25 20:24:12.343 [info] update#setState checking for updates
+2026-06-25 20:24:12.494 [info] update#setState idle
+2026-06-25 20:24:36.984 [info] Extension host with pid 1239 exited with code: 0, signal: unknown.

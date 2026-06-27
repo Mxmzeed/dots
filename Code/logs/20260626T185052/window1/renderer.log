@@ -1,0 +1,129 @@
+2026-06-26 18:50:53.945 [info] Started local extension host with pid 70099.
+2026-06-26 18:50:54.250 [info] [AgentHost:remote] Initializing (enabled=false, remoteAuthority=ssh-remote+gr8server)
+2026-06-26 18:50:54.250 [info] [AgentHost:remote] Disabled via "chat.agentHost.enabled" or web runtime. Not connecting.
+2026-06-26 18:50:54.837 [warning] Authentication provider github was not declared in the Extension Manifest.
+2026-06-26 18:50:54.837 [warning] Authentication provider github-enterprise was not declared in the Extension Manifest.
+2026-06-26 18:50:54.839 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:852:7288)
+    at le (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:6006)
+    at Se (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:974)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:5851
+    at to (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:7536)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:3151
+    at Object.l [as use] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:13747)
+    at dx (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:14650)
+    at Object.l [as watch] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:14877)
+    at Tr (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:15600)
+    at K.<computed> [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:2682)
+    at e.l [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:16498)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:13456
+    at lr (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:23571)
+    at j.<computed> [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:12894)
+    at r.l [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:16498)
+    at Array.<anonymous> (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:27102)
+    at A (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:2596)
+    at jp (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:27067)
+    at Ve (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:41174)
+    at D.<computed> (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:36994)
+    at Object.initialize (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:15804)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:54461
+    at lr (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:23571)
+    at n.<computed> [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:54389)
+    at r.l [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:16498)
+    at O0 (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:5:6560)
+    at async Y0 (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:5:6787)
+2026-06-26 18:50:54.839 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:852:7288)
+    at Et (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:282499)
+    at $ (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:276797)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:282292
+    at E (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:226065)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:162854
+    at Object.f [as use] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:204467)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:203815
+    at s.<computed> [as watch] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:203826)
+    at w (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:205680)
+    at e.<computed> [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:162165)
+    at e.n [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271092)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:169921
+    at f (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:235702)
+    at e.<computed> [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:169185)
+    at t.n [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271092)
+    at Array.<anonymous> (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:240942)
+    at ge (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:278358)
+    at u (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:240904)
+    at ie (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:210159)
+    at e.<computed> (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:212646)
+    at Object.initialize (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271838)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:140356
+    at f (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:235702)
+    at e.<computed> [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:140284)
+    at t.n [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271092)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:335309
+    at async t.oneDataSystemClientFactory (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:334713)
+2026-06-26 18:50:54.840 [info] Invoking resolveAuthority(ssh-remote)...
+2026-06-26 18:50:54.840 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2026-06-26 18:50:54.840 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][8ms] invoking...
+2026-06-26 18:50:55.859 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1010ms] waiting...
+2026-06-26 18:50:55.872 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-26 18:50:56.858 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][2045ms] waiting...
+2026-06-26 18:50:57.850 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][3038ms] waiting...
+2026-06-26 18:50:58.820 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][4009ms] waiting...
+2026-06-26 18:50:59.820 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5008ms] waiting...
+2026-06-26 18:51:00.820 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][6008ms] waiting...
+2026-06-26 18:51:00.870 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-26 18:51:01.376 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][6565ms] returned Managed(1)
+2026-06-26 18:51:01.377 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 6566 ms
+2026-06-26 18:51:01.379 [info] Creating a socket (renderer-Management-82165774-43f8-4088-84e9-f7a4820f4bf7)...
+2026-06-26 18:51:01.380 [info] Creating a socket (renderer-ExtensionHost-29d33b62-d6c8-4433-813f-97d38a441998)...
+2026-06-26 18:51:01.630 [info] Creating a socket (renderer-Management-82165774-43f8-4088-84e9-f7a4820f4bf7) was successful after 241 ms.
+2026-06-26 18:51:01.637 [info] Creating a socket (renderer-ExtensionHost-29d33b62-d6c8-4433-813f-97d38a441998) was successful after 243 ms.
+2026-06-26 18:51:01.806 [info] [reconnection-grace-time] Client received grace time from server: 10800000ms (10800s)
+2026-06-26 18:51:02.424 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-06-26 18:51:02.698 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-06-26 18:51:03.369 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-06-26 18:51:06.313 [info] [perf] Render performance baseline is 28ms
+2026-06-26 18:51:08.989 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/out/vs/workbench/api/node/extensionHostProcess.js:852:7288)
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:281:47508
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:281:51162
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:281:55194
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:281:56761
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:281:58951
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:290:2608
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:291:2671
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:291:9347
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:293:21450
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:293:25522
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:293:27025
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at Object.<anonymous> (/home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:2399:1178)
+    at Module._compile (node:internal/modules/cjs/loader:1830:14)
+    at Object..js (node:internal/modules/cjs/loader:1961:10)
+    at Module.load (node:internal/modules/cjs/loader:1553:32)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1355:12)
+    at i._load (file:///home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/out/vs/workbench/api/node/extensionHostProcess.js:852:6667)
+    at n._load (file:///home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/out/vs/workbench/api/node/extensionHostProcess.js:683:28855)
+    at n._load (file:///home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/out/vs/workbench/api/node/extensionHostProcess.js:675:25845)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1576:12)
+    at require (node:internal/modules/helpers:153:16)
+    at _P._doLoadModule (file:///home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/out/vs/workbench/api/node/extensionHostProcess.js:686:1487)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-06-26 18:51:08.989 [error] [Extension Host] (node:1005206) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+2026-06-26 18:51:14.441 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-06-26 20:01:59.125 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-06-26 20:05:19.550 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-06-26 20:05:19.581 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-06-26 20:05:19.582 [warning] Attempted to report in-progress status for unknown chat session type 'claude-code'

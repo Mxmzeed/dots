@@ -1,0 +1,19 @@
+2026-06-25 16:51:59.789 [info] StorageMainService: creating application shared storage
+2026-06-25 16:51:59.863 [info] [shared storage] Creating shared storage database at '/home/mamz/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: true)
+2026-06-25 16:51:59.864 [info] [shared storage] Initializing fallback application storage (path: /home/mamz/.config/Code/User/globalStorage/state.vscdb)
+2026-06-25 16:51:59.870 [info] [shared storage] Fallback application storage initialized with 3 items
+2026-06-25 16:51:59.872 [info] update#setState idle
+2026-06-25 16:52:25.763 [warning] [perf] profiling STARTED acd8cd92-5d08-4d30-8e87-d81f62144a20
+2026-06-25 16:52:29.872 [info] update#setState checking for updates
+2026-06-25 16:52:29.960 [info] update#setState idle
+2026-06-25 16:52:30.827 [warning] [perf] profiling DONE acd8cd92-5d08-4d30-8e87-d81f62144a20
+2026-06-25 16:52:31.151 [warning] [perf] profiling STARTED acd8cd92-5d08-4d30-8e87-d81f62144a20
+2026-06-25 16:52:36.205 [warning] [perf] profiling DONE acd8cd92-5d08-4d30-8e87-d81f62144a20
+2026-06-25 16:52:36.500 [warning] [perf] profiling STARTED acd8cd92-5d08-4d30-8e87-d81f62144a20
+2026-06-25 16:52:41.551 [warning] [perf] profiling DONE acd8cd92-5d08-4d30-8e87-d81f62144a20
+2026-06-25 16:56:49.267 [info] Extension host with pid 47938 exited with code: 0, signal: unknown.
+2026-06-25 16:57:16.131 [info] Extension host with pid 49746 exited with code: 0, signal: unknown.
+2026-06-25 17:52:29.876 [info] update#setState checking for updates
+2026-06-25 17:52:30.117 [info] update#setState idle
+2026-06-25 18:52:29.879 [info] update#setState checking for updates
+2026-06-25 18:52:30.178 [info] update#setState idle

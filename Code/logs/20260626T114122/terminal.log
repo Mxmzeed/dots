@@ -1,0 +1,24 @@
+2026-06-26 11:42:09.701 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 885.90ms
+ptyhostservice<->ptyhost: 4.46ms []
+2026-06-26 11:42:09.701 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 885.60ms
+ptyhostservice<->ptyhost: 4.27ms []
+2026-06-26 11:42:09.701 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 885.40ms
+ptyhostservice<->ptyhost: 4.10ms []
+2026-06-26 11:42:09.701 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 885.30ms
+ptyhostservice<->ptyhost: 4.01ms []
+2026-06-26 11:42:16.939 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 66.10ms
+ptyhostservice<->ptyhost: 12.29ms []
+2026-06-26 11:42:16.939 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 66.00ms
+ptyhostservice<->ptyhost: 12.11ms []
+2026-06-26 11:42:16.940 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 65.90ms
+ptyhostservice<->ptyhost: 11.97ms []
+2026-06-26 11:42:16.940 [info] Latency measurements for ssh-remote+gr8server backend
+window<->ptyhostservice<->ptyhost: 65.80ms
+ptyhostservice<->ptyhost: 11.92ms []

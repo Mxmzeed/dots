@@ -1,0 +1,365 @@
+2026-06-26 18:36:47.713 [info] Started local extension host with pid 68812.
+2026-06-26 18:36:47.928 [info] [AgentHost:remote] Initializing (enabled=false, remoteAuthority=ssh-remote+gr8server)
+2026-06-26 18:36:47.931 [info] [AgentHost:remote] Disabled via "chat.agentHost.enabled" or web runtime. Not connecting.
+2026-06-26 18:36:48.916 [warning] Authentication provider github was not declared in the Extension Manifest.
+2026-06-26 18:36:48.918 [warning] Authentication provider github-enterprise was not declared in the Extension Manifest.
+2026-06-26 18:36:48.920 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:852:7288)
+    at le (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:6006)
+    at Se (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:974)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:5851
+    at to (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:7536)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:3151
+    at Object.l [as use] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:13747)
+    at dx (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:14650)
+    at Object.l [as watch] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:14877)
+    at Tr (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:15600)
+    at K.<computed> [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:2682)
+    at e.l [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:16498)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:13456
+    at lr (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:23571)
+    at j.<computed> [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:12894)
+    at r.l [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:16498)
+    at Array.<anonymous> (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:27102)
+    at A (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:2596)
+    at jp (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:27067)
+    at Ve (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:41174)
+    at D.<computed> (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:36994)
+    at Object.initialize (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:15804)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:54461
+    at lr (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:23571)
+    at n.<computed> [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:54389)
+    at r.l [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:16498)
+    at O0 (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:5:6560)
+    at async Y0 (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:5:6787)
+2026-06-26 18:36:48.920 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:852:7288)
+    at Et (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:282499)
+    at $ (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:276797)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:282292
+    at E (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:226065)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:162854
+    at Object.f [as use] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:204467)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:203815
+    at s.<computed> [as watch] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:203826)
+    at w (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:205680)
+    at e.<computed> [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:162165)
+    at e.n [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271092)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:169921
+    at f (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:235702)
+    at e.<computed> [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:169185)
+    at t.n [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271092)
+    at Array.<anonymous> (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:240942)
+    at ge (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:278358)
+    at u (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:240904)
+    at ie (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:210159)
+    at e.<computed> (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:212646)
+    at Object.initialize (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271838)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:140356
+    at f (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:235702)
+    at e.<computed> [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:140284)
+    at t.n [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271092)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:335309
+    at async t.oneDataSystemClientFactory (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:334713)
+2026-06-26 18:36:48.921 [info] Invoking resolveAuthority(ssh-remote)...
+2026-06-26 18:36:48.921 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2026-06-26 18:36:48.922 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][16ms] invoking...
+2026-06-26 18:36:49.693 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-26 18:36:49.919 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1028ms] waiting...
+2026-06-26 18:36:50.951 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][2037ms] waiting...
+2026-06-26 18:36:51.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][3017ms] waiting...
+2026-06-26 18:36:52.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][4017ms] waiting...
+2026-06-26 18:36:53.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5017ms] waiting...
+2026-06-26 18:36:54.675 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-26 18:36:54.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][6017ms] waiting...
+2026-06-26 18:36:55.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][7017ms] waiting...
+2026-06-26 18:36:56.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][8017ms] waiting...
+2026-06-26 18:36:57.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][9017ms] waiting...
+2026-06-26 18:36:58.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][10017ms] waiting...
+2026-06-26 18:36:59.909 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][11017ms] waiting...
+2026-06-26 18:37:00.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][12017ms] waiting...
+2026-06-26 18:37:01.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][13017ms] waiting...
+2026-06-26 18:37:02.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][14017ms] waiting...
+2026-06-26 18:37:03.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][15017ms] waiting...
+2026-06-26 18:37:04.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][16017ms] waiting...
+2026-06-26 18:37:05.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][17017ms] waiting...
+2026-06-26 18:37:06.219 [error] [LocalProcess0][resolveAuthority(ssh-remote,1)][17329ms] returned an error {"code":"NotAvailable","message":"Connecting with SSH timed out","detail":true}
+2026-06-26 18:37:06.220 [error] resolveAuthority(ssh-remote) returned an error after 17330 ms Connecting with SSH timed out
+2026-06-26 18:37:06.221 [error] Error received from starting extension host (kind: Remote)
+2026-06-26 18:37:06.221 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.222 [error] [remote-connection][attempt 1] An error occurred in initial connection! Will retry... Error:
+2026-06-26 18:37:06.222 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.224 [error] [remote-connection][attempt 2] An error occurred in initial connection! Will retry... Error:
+2026-06-26 18:37:06.225 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.228 [error] [remote-connection][attempt 3] An error occurred in initial connection! Will retry... Error:
+2026-06-26 18:37:06.228 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.398 [error] [remote-connection][attempt 4] An error occurred in initial connection! Will retry... Error:
+2026-06-26 18:37:06.399 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.410 [error] [remote-connection][attempt 5]  An error occurred in initial connection! It will be treated as a permanent error. Error:
+2026-06-26 18:37:06.410 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.432 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.432 [warning] Error getting remote process MCP environment Connecting with SSH timed out
+2026-06-26 18:37:06.433 [error] Cannot register remote filesystem provider. Error while fetching remote environment. Connecting with SSH timed out
+2026-06-26 18:37:06.433 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.433 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.434 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.434 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.435 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.459 [warning] Ignoring the error while validating workspace folder vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI - ENOPRO: No file system provider found for resource 'vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI'
+2026-06-26 18:37:06.460 [error] CodeExpectedError
+    at xle.withProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86146)
+    at async xle.doWatch (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:99001)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:98691
+2026-06-26 18:37:06.460 [error] CodeExpectedError
+    at xle.withProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86146)
+    at async xle.doWatch (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:99001)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:98691
+2026-06-26 18:37:06.460 [error] CodeExpectedError
+    at xle.withProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86146)
+    at async xle.doWatch (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:99001)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:98691
+2026-06-26 18:37:06.460 [error] CodeExpectedError
+    at xle.withProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86146)
+    at async xle.doWatch (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:99001)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:98691
+2026-06-26 18:37:06.461 [error] ENOPRO: No file system provider found for resource 'vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.git/config': CodeExpectedError
+    at xle.withProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86146)
+    at async xle.exists (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:88464)
+    at async Promise.all (index 0)
+2026-06-26 18:37:06.461 [error] Failed to resolve files at location: vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.github/agents ENOPRO: No file system provider found for resource 'vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.github/agents'
+2026-06-26 18:37:06.461 [warning] Failed to get installed servers from vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.vscode/mcp.json ENOPRO: No file system provider found for resource 'vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.vscode/mcp.json'
+2026-06-26 18:37:06.463 [error] CodeExpectedError
+    at xle.withProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86146)
+    at async xle.doWatch (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:99001)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:98691
+2026-06-26 18:37:06.466 [error] CodeExpectedError
+    at xle.withProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86146)
+    at async xle.withReadProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86238)
+    at async xle.readFileStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:91326)
+    at async mbt.doRead (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5141:13632)
+    at async mbt.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5141:13396)
+    at async bB.resolveFromFile (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1851:16619)
+    at async bB.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1851:14774)
+    at async Y4e.doResolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5141:8863)
+    at async LI.doResolveAsText (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2556:20247)
+    at async oY.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3937:91903)
+    at async mNe.doSetInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1254:34485)
+    at async mNe.doOpenEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1254:32271)
+    at async mNe.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1254:31219)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1366:31396
+2026-06-26 18:37:06.473 [error] Failed to resolve files at location: vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.claude/agents ENOPRO: No file system provider found for resource 'vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.claude/agents'
+2026-06-26 18:37:06.489 [error] ENOPRO: No file system provider found for resource 'vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/pom.xml': CodeExpectedError
+    at xle.withProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86146)
+    at async xle.exists (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:88464)
+    at async Promise.all (index 0)
+2026-06-26 18:37:06.502 [error] CodeExpectedError
+    at xle.withProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86146)
+    at async xle.doWatch (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:99001)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:98691
+2026-06-26 18:37:06.650 [error] Connecting with SSH timed out: CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:06.651 [error] ENOPRO: No file system provider found for resource 'vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI': CodeExpectedError
+    at xle.withProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86146)
+    at async xle.doResolveFile (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86921)
+    at async xle.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86766)
+    at async Nvt.findWorkspaces (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5099:9654)
+2026-06-26 18:37:06.661 [error] ENOPRO: No file system provider found for resource 'vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.vscode': CodeExpectedError
+    at xle.withProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:86146)
+    at async xle.exists (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5136:88464)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1091:24128
+    at async Promise.all (index 0)
+    at async dPe._initWorkspaceFolderSnippets (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1091:24293)
+2026-06-26 18:37:06.783 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-06-26 18:37:06.931 [error] Failed to resolve files at location: vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.github/agents ENOPRO: No file system provider found for resource 'vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.github/agents'
+2026-06-26 18:37:06.931 [error] Failed to resolve files at location: vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.claude/agents ENOPRO: No file system provider found for resource 'vscode-remote://ssh-remote%2Bgr8server/home/mamz/projects/EmailAI/.claude/agents'
+2026-06-26 18:37:07.208 [error] CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:07.216 [error] Connecting with SSH timed out: CodeExpectedError: Connecting with SSH timed out
+    at lSt._resolveAuthorityOnExtensionHosts (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:22621)
+    at async lSt._resolveAuthorityWithLogging (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5191:21866)
+    at async lSt._doResolveExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5201:4968)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:89793
+2026-06-26 18:37:09.357 [info] Started local extension host with pid 68890.
+2026-06-26 18:37:09.498 [info] [AgentHost:remote] Initializing (enabled=false, remoteAuthority=ssh-remote+gr8server)
+2026-06-26 18:37:09.498 [info] [AgentHost:remote] Disabled via "chat.agentHost.enabled" or web runtime. Not connecting.
+2026-06-26 18:37:10.226 [warning] Authentication provider github was not declared in the Extension Manifest.
+2026-06-26 18:37:10.226 [warning] Authentication provider github-enterprise was not declared in the Extension Manifest.
+2026-06-26 18:37:10.238 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:852:7288)
+    at le (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:6006)
+    at Se (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:974)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:5851
+    at to (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:7536)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:3151
+    at Object.l [as use] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:13747)
+    at dx (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:14650)
+    at Object.l [as watch] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:14877)
+    at Tr (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:15600)
+    at K.<computed> [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:2682)
+    at e.l [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:16498)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:13456
+    at lr (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:23571)
+    at j.<computed> [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:4:12894)
+    at r.l [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:16498)
+    at Array.<anonymous> (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:27102)
+    at A (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:2596)
+    at jp (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:27067)
+    at Ve (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:41174)
+    at D.<computed> (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:36994)
+    at Object.initialize (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:15804)
+    at /usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:54461
+    at lr (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:23571)
+    at n.<computed> [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:54389)
+    at r.l [as initialize] (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:1:16498)
+    at O0 (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:5:6560)
+    at async Y0 (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:5:6787)
+2026-06-26 18:37:10.259 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:852:7288)
+    at Et (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:282499)
+    at $ (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:276797)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:282292
+    at E (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:226065)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:162854
+    at Object.f [as use] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:204467)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:203815
+    at s.<computed> [as watch] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:203826)
+    at w (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:205680)
+    at e.<computed> [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:162165)
+    at e.n [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271092)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:169921
+    at f (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:235702)
+    at e.<computed> [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:169185)
+    at t.n [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271092)
+    at Array.<anonymous> (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:240942)
+    at ge (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:278358)
+    at u (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:240904)
+    at ie (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:210159)
+    at e.<computed> (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:212646)
+    at Object.initialize (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271838)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:140356
+    at f (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:235702)
+    at e.<computed> [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:140284)
+    at t.n [as initialize] (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:271092)
+    at /home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:335309
+    at async t.oneDataSystemClientFactory (/home/mamz/.vscode/extensions/ms-vscode-remote.remote-ssh-0.124.0/out/extension.js:2:334713)
+2026-06-26 18:37:10.266 [info] Invoking resolveAuthority(ssh-remote)...
+2026-06-26 18:37:10.267 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2026-06-26 18:37:10.275 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][10ms] invoking...
+2026-06-26 18:37:11.285 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1018ms] waiting...
+2026-06-26 18:37:11.587 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-26 18:37:12.099 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1833ms] returned Managed(1)
+2026-06-26 18:37:12.100 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 1835 ms
+2026-06-26 18:37:12.100 [info] Creating a socket (renderer-Management-b3586175-727c-45e5-b2c2-a5d985ea01e8)...
+2026-06-26 18:37:12.102 [info] Creating a socket (renderer-ExtensionHost-56615c47-7fdd-4b9f-bee0-4f3613725437)...
+2026-06-26 18:37:12.265 [info] Creating a socket (renderer-ExtensionHost-56615c47-7fdd-4b9f-bee0-4f3613725437) was successful after 165 ms.
+2026-06-26 18:37:12.316 [info] Creating a socket (renderer-Management-b3586175-727c-45e5-b2c2-a5d985ea01e8) was successful after 215 ms.
+2026-06-26 18:37:12.624 [info] [reconnection-grace-time] Client received grace time from server: 10800000ms (10800s)
+2026-06-26 18:37:13.651 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-06-26 18:37:13.919 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-06-26 18:37:14.304 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-06-26 18:37:16.631 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-26 18:37:17.153 [info] [perf] Render performance baseline is 56ms
+2026-06-26 18:37:22.334 [info] Extension host (Remote) is unresponsive.
+2026-06-26 18:37:23.870 [info] Extension host (Remote) is responsive.
+2026-06-26 18:37:23.894 [error] navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/out/vs/workbench/api/node/extensionHostProcess.js:852:7288)
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:281:47508
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:281:51162
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:281:55194
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:281:56761
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:281:58951
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:290:2608
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:291:2671
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:291:9347
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:293:21450
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:293:25522
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:293:27025
+    at /home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:1:327
+    at Object.<anonymous> (/home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/extensions/copilot/dist/extension.js:2399:1178)
+    at Module._compile (node:internal/modules/cjs/loader:1830:14)
+    at Object..js (node:internal/modules/cjs/loader:1961:10)
+    at Module.load (node:internal/modules/cjs/loader:1553:32)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1355:12)
+    at i._load (file:///home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/out/vs/workbench/api/node/extensionHostProcess.js:852:6667)
+    at n._load (file:///home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/out/vs/workbench/api/node/extensionHostProcess.js:683:28855)
+    at n._load (file:///home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/out/vs/workbench/api/node/extensionHostProcess.js:675:25845)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1576:12)
+    at require (node:internal/modules/helpers:153:16)
+    at _P._doLoadModule (file:///home/mamz/.vscode-server/cli/servers/Stable-7e7950df89d055b5a378379db9ee14290772148a/server/out/vs/workbench/api/node/extensionHostProcess.js:686:1487)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-06-26 18:37:23.896 [error] [Extension Host] (node:1000623) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+2026-06-26 18:37:27.901 [info] Extension host (Remote) is unresponsive.
+2026-06-26 18:37:29.703 [info] Extension host (Remote) is responsive.
+2026-06-26 18:37:36.068 [info] Extension host (Remote) is unresponsive.
+2026-06-26 18:37:44.149 [info] Extension host (Remote) is responsive.
+2026-06-26 18:37:49.290 [error] An unknown error occurred. Please consult the log for more details.
+2026-06-26 18:37:49.807 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-06-26 18:50:48.262 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-06-26 18:50:48.262 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-06-26 18:50:48.262 [warning] Attempted to report in-progress status for unknown chat session type 'claude-code'

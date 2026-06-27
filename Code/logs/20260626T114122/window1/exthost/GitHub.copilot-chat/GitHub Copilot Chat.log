@@ -1,0 +1,43 @@
+2026-06-26 11:41:27.629 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-06-26 11:41:27.630 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-06-26 11:41:27.630 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-06-26 11:41:27.630 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-06-26 11:41:27.712 [info] Logged in as Mxmzeed
+2026-06-26 11:41:27.716 [info] Using the Electron fetcher.
+2026-06-26 11:41:28.307 [info] ConversationFeature: Waiting for copilot token or BYOK model to activate conversation feature
+2026-06-26 11:41:28.800 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-06-26 11:41:28.951 [info] [CopilotCLIChatSessionContentProvider] listSessions took 154.49791900000037ms
+2026-06-26 11:41:28.965 [info] Got Copilot token for Mxmzeed
+2026-06-26 11:41:28.965 [info] Copilot Chat: 0.54.0, VS Code: 1.126.0
+2026-06-26 11:41:29.041 [info] copilot token sku: free_educational_quota
+2026-06-26 11:41:29.041 [info] ConversationFeature: Activating contributions
+2026-06-26 11:41:29.041 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-06-26 11:41:29.059 [info] Registering default platform agent...
+2026-06-26 11:41:29.077 [info] copilot token sku: free_educational_quota
+2026-06-26 11:41:29.078 [info] [code-referencing] Public code references are enabled.
+2026-06-26 11:41:29.079 [info] copilot token sku: free_educational_quota
+2026-06-26 11:41:29.079 [info] [code-referencing] Public code references are enabled.
+2026-06-26 11:41:29.079 [info] copilot token sku: free_educational_quota
+2026-06-26 11:41:29.079 [info] [code-referencing] Public code references are enabled.
+2026-06-26 11:41:29.079 [info] copilot token sku: free_educational_quota
+2026-06-26 11:41:29.079 [info] [code-referencing] Public code references are enabled.
+2026-06-26 11:41:29.079 [info] copilot token sku: free_educational_quota
+2026-06-26 11:41:29.079 [info] [code-referencing] Public code references are enabled.
+2026-06-26 11:41:29.081 [info] activationBlocker from 'conversationFeature' took for 809ms
+2026-06-26 11:41:29.086 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent identity change. Has token: true
+2026-06-26 11:41:29.086 [info] copilot token sku: free_educational_quota
+2026-06-26 11:41:29.087 [info] BYOK: registered 9 provider(s): ollama, anthropic, gemini, xai, openai, openrouter, azure, customoai, customendpoint
+2026-06-26 11:41:29.087 [info] BYOK: fetching known models list
+2026-06-26 11:41:29.088 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-06-26 11:41:29.091 [info] activationBlocker from 'languageModelAccess' took for 827ms
+2026-06-26 11:41:29.102 [info] [CopilotCLIChatSessionContentProvider] listSessions took 146.83650100000068ms
+2026-06-26 11:41:29.203 [info] [CopilotCLI] MCP server started. Lock file: /home/mamz/.copilot/ide/10d71d48-760f-480c-a7f4-3364656734ec.lock
+2026-06-26 11:41:29.203 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-XxHR4E/mcp.sock#%2Fmcp
+2026-06-26 11:41:29.301 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-06-26 11:41:29.341 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-06-26 11:41:29.343 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-06-26 11:41:29.936 [info] Fetched model metadata in 1659ms 2e540776-d49e-4274-b5a8-51f7a1aceccf
+2026-06-26 11:41:29.973 [info] Latest entry: ccreq:latest.copilotmd
+2026-06-26 11:41:29.973 [info] ccreq:f6883627.copilotmd | markdown
+2026-06-26 11:41:30.127 [info] ConversationFeature: BYOK models available
+2026-06-26 11:41:30.127 [info] copilot token sku: free_educational_quota

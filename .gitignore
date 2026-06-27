@@ -1,0 +1,20 @@
+# ignored configuration
+dconf/
+dgop/
+discord/
+environment.d/
+equibop/
+Equicord/
+go/
+htop/
+legcord/
+pacseek/
+pcmanfm-qt/
+pulse/
+spotify/
+systemd/
+unity3d/
+vesktop/
+yay/
+zen/
+firefox/
